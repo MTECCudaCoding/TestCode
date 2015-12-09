@@ -401,6 +401,7 @@ void revisarHuella(int pIndiceInicio, const int pLenMatriz, entero128 *pMatrizOU
 			}
 		}
 	}
+	int a = 0;
 	//printf("Coincidencias encontradas = %d \n", pHuella_Muestra->cantidadCoincidencias);
 }
 
@@ -408,5 +409,5 @@ void revisarHuella(int pIndiceInicio, const int pLenMatriz, entero128 *pMatrizOU
 void incrementarHuella(const int pLenMatriz, entero128 *pMatrizOUT_DAT, huella * pHuella_Muestra,unsigned int * pArregloHamming){
 	//hola soy diego
 
-	int b = 34;
+	int a = 0;
 }
