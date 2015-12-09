@@ -407,4 +407,5 @@ void revisarHuella(int pIndiceInicio, const int pLenMatriz, entero128 *pMatrizOU
 
 void incrementarHuella(const int pLenMatriz, entero128 *pMatrizOUT_DAT, huella * pHuella_Muestra,unsigned int * pArregloHamming){
 	//hola soy diego
+	int a = 0;
 }
